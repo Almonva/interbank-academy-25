@@ -1,0 +1,13 @@
+# Ignorar el entorno virtual
+venv/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
